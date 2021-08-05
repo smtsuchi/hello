@@ -1,2 +1,3 @@
-def test():
+def test(hi):
+    x= hi
     pass
